@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programming Job Board</title>
+    <!-- Add your CSS link here -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Programming Job Board</h1>
+        <!-- Add your navigation bar or menu here if needed -->
+    </header>
+
+    <main>
+        <section id="job-search">
+            <h2>Find Your Next Programming Job</h2>
+            <form onsubmit="searchJobs(event)">
+              <input type="text" id="keywordInput" placeholder="Enter job title or keywords">
+              <input type="text" id="locationInput" placeholder="Enter location">
+              <button type="submit">Search</button>
+            </form>
+          </section>
+          
+
+        <section id="job-listings">
+            <h2>Latest Job Listings</h2>
+            <ul id="job-list">
+                <!-- Job listings will be dynamically added here -->
+              </ul>
+        </section>
+
+        <section id="post-job">
+            <h2>Post a Programming Job</h2>
+            <form onsubmit="postJob(event)">
+              <input type="text" id="titleInput" placeholder="Job Title" required>
+              <input type="text" id="companyInput" placeholder="Company Name" required>
+              <input type="text" id="locationInput" placeholder="Location" required>
+              <textarea id="descriptionInput" placeholder="Job Description" required></textarea>
+              <button type="submit">Post Job</button>
+            </form>
+          </section>
+          
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Your Programming Job Board. All rights reserved.</p>
+    </footer>
+
+    <!-- Add your JavaScript link here -->
+    <script src="script.js"></script>
+</body>
+</html>

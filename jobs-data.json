@@ -1,0 +1,87 @@
+{
+    "jobListings": [
+      {
+        "id": 1,
+        "title": "Software Engineer",
+        "company": "ABC Tech Solutions",
+        "location": "New York, NY",
+        "description": "We are seeking a talented software engineer to join our development team...",
+        "applyLink": "https://example.com/apply/1"
+      },
+      {
+        "id": 2,
+        "title": "Frontend Developer",
+        "company": "XYZ Web Services",
+        "location": "San Francisco, CA",
+        "description": "Looking for a frontend developer with expertise in modern JavaScript frameworks...",
+        "applyLink": "https://example.com/apply/2"
+      },
+      {
+        "id": 3,
+        "title": "Full Stack Developer",
+        "company": "Tech Innovators Inc.",
+        "location": "Austin, TX",
+        "description": "Join our team of full-stack developers to build innovative web applications...",
+        "applyLink": "https://example.com/apply/3"
+      },
+      {
+        "id": 4,
+        "title": "Data Scientist",
+        "company": "Data Analytics Co.",
+        "location": "Chicago, IL",
+        "description": "We are looking for a skilled data scientist to analyze and interpret data...",
+        "applyLink": "https://example.com/apply/4"
+      },
+      {
+        "id": 5,
+        "title": "Backend Developer",
+        "company": "Tech Solutions Ltd.",
+        "location": "London, UK",
+        "description": "We are hiring a backend developer to work on scalable APIs...",
+        "applyLink": "https://example.com/apply/5"
+      },
+      {
+        "id": 6,
+        "title": "Mobile App Developer",
+        "company": "Mobile Innovations Inc.",
+        "location": "San Jose, CA",
+        "description": "Join our team of talented mobile app developers and build cutting-edge apps...",
+        "applyLink": "https://example.com/apply/6"
+      },
+      {
+        "id": 7,
+        "title": "Data Engineer",
+        "company": "DataTech Solutions",
+        "location": "Sydney, Australia",
+        "description": "Looking for a skilled data engineer to design and implement data pipelines...",
+        "applyLink": "https://example.com/apply/7"
+      },
+      {
+        "id": 8,
+        "title": "UI/UX Designer",
+        "company": "Creative Media Studio",
+        "location": "New York, NY",
+        "description": "We are seeking a talented UI/UX designer to create stunning user interfaces...",
+        "applyLink": "https://example.com/apply/8"
+      },
+      {
+        "id": 9,
+        "title": "Full Stack Developer",
+        "company": "Tech Innovators Inc.",
+        "location": "Austin, TX",
+        "description": "Join our team of full-stack developers to build innovative web applications...",
+        "applyLink": "https://example.com/apply/9"
+      },
+      {
+        "id": 10,
+        "title": "Machine Learning Engineer",
+        "company": "AI Solutions Ltd.",
+        "location": "Berlin, Germany",
+        "description": "We are looking for a machine learning engineer to work on AI-driven projects...",
+        "applyLink": "https://example.com/apply/10"
+      }
+      
+    ]
+  }
+  
+
